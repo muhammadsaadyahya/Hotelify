@@ -1,0 +1,24 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+*.dll
+*.pdb
+*.exe
+
+# NuGet
+packages/
+
+# IIS Express
+*.log
+
+# Temporary files
+*.cache
